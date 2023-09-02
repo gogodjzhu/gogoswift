@@ -11,6 +11,7 @@
 
 ### SwiftUI
 - [Data Flow & State in SwiftUI](./SwiftUI/DataFlow/)
+- [Core Data](./SwiftUI/CoreData/)
 
 
 ## TODO topics
